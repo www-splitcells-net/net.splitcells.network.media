@@ -3,12 +3,12 @@
 
 <svg
    width="500pt"
-   height="275pt"
-   viewBox="0 0 176.3889 97.013882"
+   height="225pt"
+   viewBox="0 0 176.3889 79.374994"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="constraint.tree.defiance.cost.svg"
+   sodipodi:docname="constraint.tree.defiance.cost.intermediate.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,11 +23,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="6.906373"
-     inkscape:cx="371.83048"
-     inkscape:cy="57.772726"
+     inkscape:zoom="1.2208858"
+     inkscape:cx="410.35779"
+     inkscape:cy="246.13277"
      inkscape:window-width="1716"
-     inkscape:window-height="1191"
+     inkscape:window-height="1166"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,28 +38,28 @@
      scale-x="1" />
   <defs
      id="defs2">
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect11777"
-       is_visible="true"
-       lpeversion="1" />
     <marker
        style="overflow:visible"
-       id="Arrow1Lstart"
+       id="Arrow2Lstart"
        refX="0.0"
        refY="0.0"
        orient="auto"
-       inkscape:stockid="Arrow1Lstart"
+       inkscape:stockid="Arrow2Lstart"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path11383" />
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path12749" />
     </marker>
     <inkscape:path-effect
        effect="spiro"
-       id="path-effect11376"
+       id="path-effect12681"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12566"
        is_visible="true"
        lpeversion="1" />
     <marker
@@ -165,21 +165,7 @@
     </marker>
     <marker
        style="overflow:visible"
-       id="DotS-0"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="DotS"
-       inkscape:isstock="true">
-      <path
-         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
-         id="path3674-8" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow2Lend-1"
+       id="Arrow2Lend-2-9"
        refX="0"
        refY="0"
        orient="auto"
@@ -189,21 +175,21 @@
          transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
-         id="path3628-9" />
+         id="path3628-1-7" />
     </marker>
     <marker
        style="overflow:visible"
-       id="Arrow1Lstart-7"
+       id="Arrow2Lend-2-9-2"
        refX="0"
        refY="0"
        orient="auto"
-       inkscape:stockid="Arrow1Lstart"
+       inkscape:stockid="Arrow2Lend"
        inkscape:isstock="true">
       <path
-         transform="matrix(0.8,0,0,0.8,10,0)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path11383-8" />
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3628-1-7-5" />
     </marker>
   </defs>
   <g
@@ -212,109 +198,83 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.280156"
-       x="56.28812"
-       y="14.163068"
-       id="text2935"
-       transform="scale(1.0588599,0.944412)"><tspan
-         sodipodi:role="line"
-         id="tspan2933"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.280156"
-         x="56.28812"
-         y="14.163068">ForAll = <tspan
-   style="fill:#ff0000;fill-opacity:1"
-   id="tspan7938">cost 2</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="26.107967"
-       y="31.171225"
+       y="13.532335"
        id="text11379"><tspan
          sodipodi:role="line"
          id="tspan11377"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583"
          x="26.107967"
-         y="31.171225">Row 2 = cost 1</tspan></text>
+         y="13.532335">Row 2 = <tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan7044">cost 1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
        x="96.657318"
-       y="48.921734"
+       y="31.282843"
        id="text14507"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
          x="96.657318"
-         y="48.921734"
+         y="31.282843"
          id="tspan8841">Column E = <tspan
-   style="fill:#000000;fill-opacity:1"
+   style="fill:#ff0000;fill-opacity:1"
    id="tspan25270">cost 1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="8.388463"
-       y="66.560623"
+       y="48.92173"
        id="text22403"><tspan
          sodipodi:role="line"
          id="tspan22401"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583"
          x="8.388463"
-         y="66.560623">2 Queens at E and G = cost 1</tspan></text>
+         y="48.92173">2 Queens at E and G = cost 1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
        x="70.124619"
-       y="84.199516"
+       y="66.560623"
        id="text22403-3"><tspan
          sodipodi:role="line"
          id="tspan22401-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583"
          x="70.124619"
-         y="84.199516">2 Queens at 2 and 7 = cost 1</tspan><tspan
+         y="66.560623">2 Queens at 2 and 7 = cost 1</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583"
          x="70.124619"
-         y="92.137016"
+         y="74.498123"
          id="tspan10779" /></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.352778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotS);marker-end:url(#Arrow2Lend)"
-       d="M 85.365285,13.44839 50.869643,27.188069"
-       id="path25540"
-       inkscape:path-effect="#path-effect25542"
-       inkscape:original-d="M 85.365285,13.44839 C 73.853046,18.267105 62.382533,22.369753 50.869643,27.188069"
-       sodipodi:nodetypes="cc" />
-    <path
        style="fill:none;stroke:#000000;stroke-width:0.352778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-       d="m 50.821141,31.411293 -0.09231,29.135389"
+       d="m 50.821141,13.772403 -0.09231,29.135389"
        id="path25544"
        inkscape:path-effect="#path-effect25546"
-       inkscape:original-d="m 50.821141,31.411293 c -0.03051,9.712208 -0.06127,19.424005 -0.09231,29.135389" />
-    <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
-       d="m 105.40618,14.63256 42.222,28.878213"
-       id="path25548"
-       inkscape:path-effect="#path-effect25550"
-       inkscape:original-d="m 105.40618,14.63256 c 14.13691,10.250472 29.30288,19.510938 42.222,28.878213"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-7)"
-       d="M 101.05919,14.600715 74.724853,25.719904"
-       id="path25548-25"
-       inkscape:path-effect="#path-effect11777"
-       inkscape:original-d="M 101.05919,14.600715 C 92.24184,18.54753 82.782662,22.113153 74.724853,25.719904"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.353445;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotS-0);marker-end:url(#Arrow2Lend-1)"
-       d="M 85.365285,13.44839 132.45768,44.429003"
-       id="path25548-9"
-       inkscape:path-effect="#path-effect11376"
-       inkscape:original-d="M 85.365285,13.44839 C 101.13291,24.44512 118.04831,34.379769 132.45768,44.429003"
-       sodipodi:nodetypes="cc" />
+       inkscape:original-d="m 50.821141,13.772403 c -0.03051,9.712208 -0.06127,19.424005 -0.09231,29.135389" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.35613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-2)"
-       d="m 132.92093,48.940351 -0.21874,29.329235"
+       d="m 132.92093,31.301461 -0.21874,29.329235"
        id="path25548-2"
        inkscape:path-effect="#path-effect4009"
-       inkscape:original-d="m 132.92093,48.940351 c -0.0733,10.410564 -0.15181,19.815661 -0.21874,29.329235"
+       inkscape:original-d="m 132.92093,31.301461 c -0.0733,10.410564 -0.15181,19.815661 -0.21874,29.329235"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:;marker-start:url(#Arrow2Lstart)"
+       d="m 150.20711,32.077163 5.16378,28.754824"
+       id="path25548-2-8"
+       inkscape:path-effect="#path-effect12566"
+       inkscape:original-d="m 150.20711,32.077163 c 1.83554,10.205406 3.48636,19.428745 5.16378,28.754824"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.35277778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:;marker-start:url(#Arrow2Lstart)"
+       d="M 68.983614,14.501861 94.124659,43.331397"
+       id="path25548-2-8-3"
+       inkscape:path-effect="#path-effect12681"
+       inkscape:original-d="m 68.983614,14.501861 c 8.936747,10.231922 16.974142,19.479225 25.141045,28.829536"
        sodipodi:nodetypes="cc" />
   </g>
 </svg>
