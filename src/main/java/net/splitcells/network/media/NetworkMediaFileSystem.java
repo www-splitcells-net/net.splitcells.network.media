@@ -20,8 +20,8 @@ import net.splitcells.dem.resource.FileSystemView;
 
 import static net.splitcells.dem.resource.FileSystemViaClassResources.fileSystemViaClassResources;
 
-public class FileSystem extends OptionI<FileSystemView> {
-    public FileSystem() {
-        super(() -> fileSystemViaClassResources(FileSystem.class, "net.splitcells", "network.media"));
+public class NetworkMediaFileSystem extends OptionI<FileSystemView> {
+    public NetworkMediaFileSystem() {
+        super(() -> fileSystemViaClassResources(NetworkMediaFileSystem.class, "net.splitcells", "network.media"));
     }
 }
