@@ -15,12 +15,12 @@
  */
 package net.splitcells.network.media;
 
-import net.splitcells.dem.environment.config.framework.OptionI;
+import net.splitcells.dem.environment.config.framework.OptionImpl;
 import net.splitcells.dem.resource.FileSystemView;
 
 import static net.splitcells.dem.resource.FileSystemViaClassResources.fileSystemViaClassResources;
 
-public class NetworkMediaFileSystem extends OptionI<FileSystemView> {
+public class NetworkMediaFileSystem extends OptionImpl<FileSystemView> {
     public NetworkMediaFileSystem() {
         super(() -> fileSystemViaClassResources(NetworkMediaFileSystem.class, "net.splitcells", "network.media"));
     }
