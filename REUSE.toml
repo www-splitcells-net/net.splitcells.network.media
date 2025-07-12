@@ -10,3 +10,9 @@ path = "src/main/svg/**/*"
 precedence = "aggregate"
 SPDX-FileCopyrightText = "Contributors To The `net.splitcells.*` Projects"
 SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "src/main/resources/**/*"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Contributors To The `net.splitcells.*` Projects"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
