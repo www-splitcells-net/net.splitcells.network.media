@@ -4,3 +4,9 @@ version = 1
 SPDX-PackageName = "net.splitcells.network.community"
 SPDX-PackageSupplier = "Mārtiņš Avots <martins.avots@splitcells.net>"
 SPDX-PackageDownloadLocation = "https://splitcells.net"
+
+[[annotations]]
+path = "src/main/svg/**/*"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Contributors To The `net.splitcells.*` Projects"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
